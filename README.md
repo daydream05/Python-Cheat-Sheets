@@ -3,6 +3,6 @@ Cheat Sheets for Python.
 
 All credit goes to Mark Graph.
 
-Email: mark.graph.gmail.com
+Email: <mailto:mark.graph@gmail.com?
 
-Twitter: https://twitter.com/mark_graph
+Twitter: [@Mark_Graph](]https://twitter.com/mark_graph)
