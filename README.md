@@ -5,4 +5,4 @@ All credit goes to Mark Graph.
 
 Email: <mailto:mark.graph@gmail.com>
 
-Twitter: [@Mark_Graph](]https://twitter.com/mark_graph)
+Twitter: [@Mark_Graph](<]https://twitter.com/mark_graph>)
